@@ -90,7 +90,7 @@ export default function Home() {
 
       <section className="about" id="about">
         <div className="about-mark">你<br />好</div>
-        <div className="about-copy"><div className="section-label"><span>04</span> 关于这里</div><h2>我是一个相信<br />“慢慢来” 的人。</h2><p>白天做产品，晚上写字。喜欢旧书、长途散步和一切带着手工痕迹的东西。这个博客是我的公开笔记本，也是一封写给未来的长信。</p><a href="mailto:hello@example.com">和我聊聊 <span>↗</span></a></div>
+        <div className="about-copy"><div className="section-label"><span>04</span> 关于这里</div><h2>我是一个相信<br />“慢慢来” 的人。</h2><p>白天做产品，晚上写字。喜欢旧书、长途散步和一切带着手工痕迹的东西。这个博客是我的公开笔记本，也是一封写给未来的长信。</p><a href="mailto:yuanfeng1897@outlook.com">和我聊聊 <span>↗</span></a></div>
       </section>
 
       <footer><a className="wordmark" href="#top">未完手记<span>。</span></a><p>持续写作，持续生活。<br />© 2026 · Built with curiosity.</p><a href="#top">回到顶部 ↑</a></footer>
